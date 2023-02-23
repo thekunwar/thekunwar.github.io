@@ -1,0 +1,24 @@
+body{
+	background-image: url(bg.jpg);
+    background-size: cover;
+}
+h1{
+	color: red;
+	background-color: seagreen;
+	text-align: center;
+	border: 10px dashed purple;
+	cursor: pointer;
+}
+p{
+	color: palevioletred;
+	background-color: antiquewhite;
+	line-height: 30px;
+	font-style: italic;
+	font-size: 150%;
+	font-family: 'Pacifico', cursive;
+
+
+}
+img{
+	float: left;
+}
